@@ -4,6 +4,7 @@ class RouteNames {
 
   static const String home = '/';
   static const String login = '/login';
+  static const String register = '/register';
 
   static const String dashboard = '/dashboard';
   static const String pos = '/pos';
@@ -13,6 +14,7 @@ class RouteNames {
   static const String users = '/users';
   static const String shops = '/shops';
   static const String staff = '/staff';
+  static const String transactions = '/transactions';
   static const String settings = '/settings';
 
   /// History / manual sales (not in web sidebar; used from POS and dashboard).

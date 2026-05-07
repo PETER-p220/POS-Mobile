@@ -1,4 +1,4 @@
-# tera_pos
+# tera_vfd
 
 A new Flutter project.
 
